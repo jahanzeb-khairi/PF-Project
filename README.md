@@ -16,12 +16,12 @@ A simple console-based weather information application built in C that allows us
   - Wind speed
 
 ## 🏙️ Location
-- Fixed for **Karachi**, Pakistan
+- Fixed for **Karachi**, **Pakistan**
 
 ## ⚙️ Technology
 
 - Language: **C**
-- Platform: Console-based CLI
+- Platform: **Console-based CLI**
 
 ## 🧩 How It Works
 
